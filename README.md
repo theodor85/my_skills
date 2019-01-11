@@ -6,31 +6,31 @@
 <table>
   <th>Навык</th>
   <th>Прогресс</th>
-  <tr>
-    <td bgcolor="#34ff5c">Зед Шоу. Легкий способ выучить Python</td>
+  <tr bgcolor="#34ff5c">
+    <td>Зед Шоу. Легкий способ выучить Python</td>
     <td>100%</td>
   </tr>
   <tr>
-    <td>Васильев А. Н. Python на примерах</td>
+    <td bgcolor="#34ff5c">Васильев А. Н. Python на примерах</td>
     <td>100%</td>
   </tr>
-  <tr>
-    <td bgcolor="#fcff32">Дэн Бэйдер. Чистый Python</td>
+  <tr bgcolor="#fcff32">
+    <td>Дэн Бэйдер. Чистый Python</td>
     <td>40%</td>
   </tr>
-  <tr>
+  <tr bgcolor="#34ff5c">
     <td>BS4</td>
     <td>OK</td>
   </tr>
-  <tr>
+  <tr bgcolor="#34ff5c">
     <td>Selenium</td>
     <td>OK</td>
   </tr>
-   <tr>
+   <tr bgcolor="#ffb01e">
     <td>Scrapy</td>
-    <td>OK</td>
+    <td>0%</td>
   </tr>
-  <tr>
+  <tr bgcolor="#fcff32">
     <td>Django сделать проект в Tutorial</td>
     <td>40%</td>
   </tr>
@@ -38,7 +38,7 @@
     <td>Django сделать свой проект</td>
     <td>0%</td>
   </tr>
-  <tr>
+  <tr bgcolor="#ffb01e">
     <td>Библиотеки Machine Learning</td>
     <td>0%</td>
   </tr>
@@ -49,7 +49,7 @@ Git
 <table>
   <th>Навык</th>
   <th>Прогресс</th>
-  <tr>
+  <tr bgcolor="#fcff32">
     <td>Чакон, Штрауб. Git для профессионального программиста</td>
     <td>22%</td>
   </tr>
