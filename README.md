@@ -18,6 +18,7 @@
     <td>Дэн Бэйдер. Чистый Python</td>
     <td>40%</td>
   </tr>
+  <tr>
     <td>BS4</td>
     <td>OK</td>
   </tr>
