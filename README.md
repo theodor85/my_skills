@@ -18,6 +18,29 @@
     <td>Дэн Бэйдер. Чистый Python</td>
     <td>40%</td>
   </tr>
+    <td>BS4</td>
+    <td>OK</td>
+  </tr>
+  <tr>
+    <td>Selenium</td>
+    <td>OK</td>
+  </tr>
+   <tr>
+    <td>Scrapy</td>
+    <td>OK</td>
+  </tr>
+  <tr>
+    <td>Django сделать проект в Tutorial</td>
+    <td>40%</td>
+  </tr>
+    <tr>
+    <td>Django сделать свой проект</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td>Библиотеки Machine Learning</td>
+    <td>0%</td>
+  </tr>
 </table>
 
 Git
@@ -54,6 +77,36 @@ Git
   </tr>
   <tr>
     <td>Мартин Фаулер. Рефакторинг</td>
+    <td>0%</td>
+  </tr>
+</table>
+
+English
+----------------------
+<table>
+  <th>Навык</th>
+  <th>Прогресс</th>
+  <tr>
+    <td>Сделать 1000 карточек Anki.</td>
+    <td>13,6%</td>
+  </tr>
+</table>
+
+Frontend
+----------------------
+<table>
+  <th>Навык</th>
+  <th>Прогресс</th>
+  <tr>
+    <td>Bootstrap</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td>JavaSctript</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td>JavaSctript frameworks</td>
     <td>0%</td>
   </tr>
 </table>
