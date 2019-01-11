@@ -34,7 +34,7 @@
     <td>Django сделать проект в Tutorial</td>
     <td>40%</td>
   </tr>
-    <tr>
+  <tr bgcolor="#ffb01e">
     <td>Django сделать свой проект</td>
     <td>0%</td>
   </tr>
