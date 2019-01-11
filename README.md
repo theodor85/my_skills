@@ -6,42 +6,42 @@
 <table>
   <th>Навык</th>
   <th>Прогресс</th>
-  <tr bgcolor="#34ff5c">
+  <tr>
     <td>Зед Шоу. Легкий способ выучить Python</td>
-    <td>100%</td>
+    <td bgcolor="#34ff5c">100%</td>
   </tr>
   <tr>
-    <td bgcolor="#34ff5c">Васильев А. Н. Python на примерах</td>
-    <td>100%</td>
+    <td>Васильев А. Н. Python на примерах</td>
+    <td bgcolor="#34ff5c">100%</td>
   </tr>
-  <tr bgcolor="#fcff32">
+  <tr>
     <td>Дэн Бэйдер. Чистый Python</td>
-    <td>40%</td>
+    <td bgcolor="#fcff32">40%</td>
   </tr>
-  <tr bgcolor="#34ff5c">
+  <tr>
     <td>BS4</td>
-    <td>OK</td>
+    <td bgcolor="#34ff5c">OK</td>
   </tr>
-  <tr bgcolor="#34ff5c">
+  <tr>
     <td>Selenium</td>
-    <td>OK</td>
+    <td bgcolor="#34ff5c">OK</td>
   </tr>
-   <tr bgcolor="#ffb01e">
+   <tr>
     <td>Scrapy</td>
-    <td>0%</td>
+    <td bgcolor="#ffb01e">0%</td>
   </tr>
-  <tr bgcolor="#fcff32">
+  <tr>
     <td>Django сделать проект в Tutorial</td>
-    <td>40%</td>
+    <td bgcolor="#fcff32">40%</td>
   </tr>
-  <tr bgcolor="#ffb01e">
+  <tr>
     <td>Django сделать свой проект</td>
-    <td>0%</td>
+    <td bgcolor="#ffb01e">0%</td>
   </tr>
-  <tr bgcolor="#ffb01e">
+  <tr>
     <td>Библиотеки Machine Learning</td>
     <td>0%</td>
-  </tr>
+  </tr bgcolor="#ffb01e">
 </table>
 
 Git
