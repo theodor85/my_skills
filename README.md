@@ -40,8 +40,8 @@
   </tr>
   <tr>
     <td>Библиотеки Machine Learning</td>
-    <td>0%</td>
-  </tr bgcolor="#ffb01e">
+    <td bgcolor="#ffb01e">0%</td>
+  </tr>
 </table>
 
 Git
