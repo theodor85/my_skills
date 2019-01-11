@@ -7,7 +7,7 @@
   <th>Навык</th>
   <th>Прогресс</th>
   <tr>
-    <td>Зед Шоу. Легкий способ выучить Python</td>
+    <td bgcolor="#34ff5c">Зед Шоу. Легкий способ выучить Python</td>
     <td>100%</td>
   </tr>
   <tr>
@@ -15,7 +15,7 @@
     <td>100%</td>
   </tr>
   <tr>
-    <td>Дэн Бэйдер. Чистый Python</td>
+    <td bgcolor="#fcff32">Дэн Бэйдер. Чистый Python</td>
     <td>40%</td>
   </tr>
   <tr>
