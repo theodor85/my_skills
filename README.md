@@ -31,6 +31,10 @@
     <td bgcolor="#ffb01e">0%</td>
   </tr>
   <tr>
+    <td>Туториал по PyQt5</td>
+    <td bgcolor="#fcff32">17%</td>
+  </tr>
+  <tr>
     <td>Django сделать проект в Tutorial</td>
     <td bgcolor="#fcff32">40%</td>
   </tr>
