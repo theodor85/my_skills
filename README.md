@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Туториал по PyQt5</td>
-    <td bgcolor="#fcff32">17%</td>
+    <td bgcolor="#fcff32">32%</td>
   </tr>
   <tr>
     <td>Django сделать проект в Tutorial</td>
