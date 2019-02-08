@@ -53,9 +53,9 @@ Git
 <table>
   <th>Навык</th>
   <th>Прогресс</th>
-  <tr bgcolor="#fcff32">
+  <tr >
     <td>Чакон, Штрауб. Git для профессионального программиста</td>
-    <td>22%</td>
+    <td bgcolor ="#fcff32">22%</td>
   </tr>
 </table>
 
