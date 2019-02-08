@@ -66,11 +66,11 @@ Git
   <th>Прогресс</th>
   <tr>
     <td>Программист-прагматик.</td>
-    <td bgcolor="#34ff5c>100%</td>
+    <td bgcolor="#34ff5c">100%</td>
   </tr>
   <tr>
     <td>Чед Фаулер. Программист-фанатик</td>
-    <td bgcolor="#34ff5c>100%</td>
+    <td bgcolor="#34ff5c">100%</td>
   </tr>
   <tr>
     <td>Роберт Мартин. Чистый код</td>
