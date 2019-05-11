@@ -131,8 +131,8 @@ Frontend
     <td>0%</td>
   </tr>
   <tr>
-    <td>JavaSctript</td>
-    <td>0%</td>
+    <td>Никольский А. П. JavaSctript на примерах</td>
+    <td bgcolor="#ffb01e">0%</td>
   </tr>
   <tr>
     <td>JavaSctript frameworks</td>
