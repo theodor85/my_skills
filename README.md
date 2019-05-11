@@ -19,6 +19,14 @@
     <td bgcolor="#fcff32">40%</td>
   </tr>
   <tr>
+    <td>Лучано Рамальо. Питон. К вершинам мастерства</td>
+    <td bgcolor="#ffb01e">0%</td>
+  </tr>
+  <tr>
+    <td>Brett Slatkin. Effective Python</td>
+    <td bgcolor="#ffb01e">0%</td>
+  </tr>
+  <tr>
     <td>BS4</td>
     <td bgcolor="#34ff5c">OK</td>
   </tr>
@@ -74,7 +82,7 @@ Git
   </tr>
   <tr>
     <td>Роберт Мартин. Чистый код</td>
-    <td bgcolor="#fcff32">34%</td>
+    <td bgcolor="#fcff32">54%</td>
   </tr>
   <tr>
     <td>Э. Гамма, Р. Хельм, Р. Джонсон, Д. Влиссидес. Паттерны проектирования</td>
@@ -88,6 +96,18 @@ Git
     <td>Мартин Фаулер. Рефакторинг</td>
     <td bgcolor="#ffb01e">0%</td>
   </tr>
+  <tr>
+    <td>Кент Бек. Экстремальное программирование</td>
+    <td bgcolor="#ffb01e">0%</td>
+  </tr>
+  <tr>
+    <td>Джордж Хайнеман и др. Алгоритмы. Справочник с примерами на С, С++, Java и Python</td>
+    <td bgcolor="#ffb01e">0%</td>
+  </tr>
+  <tr>
+    <td>Мэтт Вайсфельд. Объектно-ориентированное мышление</td>
+    <td bgcolor="#ffb01e">0%</td>
+  </tr>
 </table>
 
 English
@@ -97,7 +117,7 @@ English
   <th>Прогресс</th>
   <tr>
     <td>Сделать 1000 карточек Anki.</td>
-    <td>13,6%</td>
+    <td bgcolor="#fcff32">33,5%</td>
   </tr>
 </table>
 
