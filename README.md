@@ -20,6 +20,22 @@
   </tr>
   <tr>
     <td>Лучано Рамальо. Питон. К вершинам мастерства</td>
+    <td bgcolor="#fcff32">39%</td>
+  </tr>
+  <tr>
+    <td>Дронов В. Django 2.1 Практика создания веб-сайтов на Python</td>
+    <td bgcolor="#fcff32">30%</td>
+  </tr>
+  <tr>
+    <td>D. R. Greenfield, A. R. Greenfield. Two Scoops of Django</td>
+    <td bgcolor="#fcff32">10%</td>
+  </tr>
+  <tr>
+    <td>Harry J.W. Percival. Test-Driven Development with Python</td>
+    <td bgcolor="#ffb01e">0%</td>
+  </tr>
+  <tr>
+    <td>Проект на Django</td>
     <td bgcolor="#ffb01e">0%</td>
   </tr>
   <tr>
@@ -36,18 +52,6 @@
   </tr>
    <tr>
     <td>Scrapy</td>
-    <td bgcolor="#ffb01e">0%</td>
-  </tr>
-  <tr>
-    <td>Туториал по PyQt5</td>
-    <td bgcolor="#fcff32">46%</td>
-  </tr>
-  <tr>
-    <td>Django сделать проект в Tutorial</td>
-    <td bgcolor="#fcff32">40%</td>
-  </tr>
-  <tr>
-    <td>Django сделать свой проект</td>
     <td bgcolor="#ffb01e">0%</td>
   </tr>
   <tr>
