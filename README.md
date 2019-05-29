@@ -1,6 +1,8 @@
 Навыки и знания Python
 ======================
 
+https://theodor85.github.io/my_skills/
+
 Язык Python
 ----------------------
 <table>
