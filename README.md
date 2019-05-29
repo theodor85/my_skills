@@ -123,7 +123,7 @@ English
   <th>Прогресс</th>
   <tr>
     <td>Сделать 1000 карточек Anki.</td>
-    <td bgcolor="#fcff32">33,5%</td>
+    <td bgcolor="#fcff32">39,8%</td>
   </tr>
 </table>
 
