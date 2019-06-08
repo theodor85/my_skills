@@ -22,15 +22,15 @@ https://theodor85.github.io/my_skills/
   </tr>
   <tr>
     <td>Лучано Рамальо. Питон. К вершинам мастерства</td>
-    <td bgcolor="#fcff32">39%</td>
+    <td bgcolor="#fcff32">54%</td>
   </tr>
   <tr>
     <td>Дронов В. Django 2.1 Практика создания веб-сайтов на Python</td>
-    <td bgcolor="#fcff32">30%</td>
+    <td bgcolor="#fcff32">37%</td>
   </tr>
   <tr>
     <td>D. R. Greenfield, A. R. Greenfield. Two Scoops of Django</td>
-    <td bgcolor="#fcff32">10%</td>
+    <td bgcolor="#fcff32">16%</td>
   </tr>
   <tr>
     <td>Harry J.W. Percival. Test-Driven Development with Python</td>
@@ -123,7 +123,7 @@ English
   <th>Прогресс</th>
   <tr>
     <td>Сделать 1000 карточек Anki.</td>
-    <td bgcolor="#fcff32">39,8%</td>
+    <td bgcolor="#fcff32">44,8%</td>
   </tr>
 </table>
 
